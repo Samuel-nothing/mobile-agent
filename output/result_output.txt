@@ -1,0 +1,6 @@
+[
+  {
+    "sender": "samuel.chang@nothing.tech",
+    "subject": "Lunch invite"
+  }
+]
